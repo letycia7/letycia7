@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Letycia Buonafina 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas 
+Estudante de Análise e Desenvolvimento de Sistemas na Wyden | Paulista, Pernambuco - Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letycia-buonafina)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letyciasilva2305@gmail.com)
@@ -12,9 +12,13 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ### Tecnologia que eu uso no meu dia
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<div style="display: flex; gap: 10px;">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+<br>
 
 Apaixonada por tecnologia e movida por aprender algo novo todos os dias.
 
