@@ -3,7 +3,6 @@
 Estudante de Análise e Desenvolvimento de Sistemas na Wyden | Paulista, Pernambuco - Brasil
 - 🔭 Hoje na Ligga tecnologia
 - 🌱 Focada em: SQL, HTML, CSS e Banco de Dados
-- 💼 Em busca da primeira oportunidade como Dev
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=letycia7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
